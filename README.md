@@ -1,5 +1,5 @@
 # knn-Classifier
-Creating a k-Nearest Neighbors Classifer from scratch
+Creating a k-Nearest Neighbors Classifier from scratch
 
 In this project I have created K nearest neighbor Classifier from the scratch. K nearest neighbor classifier is a classifier which predicts the label of our test cases by finding the majority of exact same labels from the 'k' nearest labels in the vicinity of our test case.
 
