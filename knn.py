@@ -9,7 +9,6 @@ def MeasureDistance(d1,d2):
 	c=d1-d2
 	d=np.inner(c,c)
 	s=math.sqrt(d[0][0])
-#	print(s)
 	return s
 
 #Measuring Distance 
